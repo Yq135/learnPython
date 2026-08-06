@@ -35,8 +35,8 @@ def pra74():
     print(d)
 
 
-#75
-#编写一个程序打印100次"1+1" 执行的运行时间
+# 75
+# 编写一个程序打印100次"1+1" 执行的运行时间
 def pra75():
     # startTime = time.localtime()
     # for i in range(100):
